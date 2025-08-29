@@ -3,7 +3,7 @@
 ### 👯 I’m looking to collaborate on tech-related projects  
 ### 🤝 I’m looking for help with optimizing RTMP streaming and Nginx related projects  
 ### 🌱 I’m currently learning Next.js  
-### ⚡ Fun fact: I used to be a night owl… now I sleep at 7 AM
+### ⚡ Fun fact: When I'm not coding you can find me instructing the street dogs that 404 doesnt exists 😬
 
 ---
 
