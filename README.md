@@ -3,7 +3,7 @@
 ### 👯 I’m looking to collaborate on tech-related projects  
 ### 🤝 I’m looking for help with optimizing RTMP streaming and Nginx related projects  
 ### 🌱 I’m currently learning Next.js  
-### ⚡ Fun fact: When I'm not coding, I'm listening to Electropop songs on full blast
+### ⚡ Fun fact: When I'm not coding, I'm playing Souls Games
 
 ---
 
