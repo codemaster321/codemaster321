@@ -1,56 +1,154 @@
-# 💫 About Me:
-### 🔭 I’m currently working on FFMpeg, Nginx, and RTMP  
-### 👯 I’m looking to collaborate on tech-related projects  
-### 🤝 I’m looking for help with optimizing RTMP streaming and Nginx related projects  
-### 🌱 I’m currently learning Next.js  
-### ⚡ Fun fact: When I'm not coding, I'm playing Souls Games
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=codemaster321&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Streaming%20•%20Systems%20•%20Souls%20Games&descAlignY=58&descAlign=62)
+
+<a href="https://github.com/codemaster321">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Streaming+engineer+by+day.;Souls+veteran+by+night.;Building+with+FFmpeg%2C+Nginx%2C+RTMP.;Currently+learning+Next.js." alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=codemaster321&icon=5&color=1)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/codemaster321?label=Follow&style=social)](https://github.com/codemaster321)
+
+</div>
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About
+
+```typescript
+const shiv = {
+  currentFocus:    ["FFmpeg", "Nginx", "RTMP streaming"],
+  learning:        "Next.js",
+  openTo:          "tech collaborations",
+  needHelpWith:    "optimizing RTMP pipelines",
+  offHours:        "getting humbled by Souls games",
+  philosophy:      "ship it, then polish it",
+};
+```
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codemaster321&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=codemaster321&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster321&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🧠 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk)
+![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=csharp)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
+![Bash](https://img.shields.io/badge/-Bash-000?style=flat-square&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?style=flat-square&logo=powershell)
+
+</td>
+<td valign="top" width="33%">
+
+### ⚡ Frameworks
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwind-css)
+![EJS](https://img.shields.io/badge/-EJS-000?style=flat-square&logo=ejs)
+![Babel](https://img.shields.io/badge/-Babel-000?style=flat-square&logo=babel)
+![ESLint](https://img.shields.io/badge/-ESLint-000?style=flat-square&logo=eslint)
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Streaming & Infra
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-000?style=flat-square&logo=ffmpeg&logoColor=5cb85c)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat-square&logo=heroku)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### 💾 Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat-square&logo=sqlite)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=flat-square&logo=supabase)
+
+</td>
+<td valign="top" width="33%">
+
+### 🔬 Data & ML
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat-square&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?style=flat-square&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=python)
+
+</td>
+<td valign="top" width="33%">
+
+### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
+![Travis CI](https://img.shields.io/badge/-Travis_CI-000?style=flat-square&logo=travis)
+
+</td>
+</tr>
+</table>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=codemaster321&icon=0&color=0)](https://visitcount.itsvg.in)
+## <img src="https://media.giphy.com/media/W3VAJZrVi0bNupwoZz/giphy.gif" width="28"> Stats That Matter
+
+<div align="center">
+
+<a href="https://github.com/codemaster321">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codemaster321&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster321&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</a>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=codemaster321&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=codemaster321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgGI9NOdnIpOTeRKYI/giphy.gif" width="28"> Contribution Graph
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/codemaster321/codemaster321/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codemaster321)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/codemaster321/React-portfolio)
+
+</div>
+
+<div align="center">
+
+<br/>
+
+> *"Praise the Sun ☀️ and ship clean code."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+
+</div>
