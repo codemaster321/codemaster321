@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=codemaster321&icon=5&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=codemaster321&style=for-the-badge&color=00d9ff)
 [![GitHub followers](https://img.shields.io/github/followers/codemaster321?label=Follow&style=social)](https://github.com/codemaster321)
 
 </div>
@@ -114,12 +114,10 @@ const shiv = {
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=codemaster321&theme=tokyonight&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=codemaster321&theme=tokyonight&hide_border=true" />
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=codemaster321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=codemaster321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
