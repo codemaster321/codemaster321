@@ -4,11 +4,16 @@ on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
+  push:
+    branches: ["main"]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: ronrouzeau/github-pokemon@v1
+      - uses: actions/checkout@v4
+      - uses: ab-smith/pokemon-readme-action@main
         with:
-          github_user_name: codemaster321
+          github_user: codemaster321
