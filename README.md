@@ -117,7 +117,6 @@ const shiv = {
 <img src="https://streak-stats.demolab.com?user=codemaster321&theme=tokyonight&hide_border=true" />
 <br/><br/>
 
-![Spotify](https://novatorem-sigma.vercel.app/api/spotify)
 
 </div>
 
