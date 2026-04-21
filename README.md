@@ -117,7 +117,7 @@ const shiv = {
 <img src="https://streak-stats.demolab.com?user=codemaster321&theme=tokyonight&hide_border=true" />
 <br/><br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qbsh3heelheqj45efa4deraeyy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qbsh3heelheqj45efa4deraeyy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1kddz5kmftji14jwlvz47wl1g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1kddz5kmftji14jwlvz47wl1g&redirect=true)
 
 </div>
 
