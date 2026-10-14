@@ -57,7 +57,22 @@ philosophy:  ship it, then polish it
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,supabase,sklearn&perline=8" />
 
-`FFmpeg` · `RTMP` · `Hugging Face Transformers` · `NumPy` · `Matplotlib`
+`FFmpeg` · `RTMP` · `NumPy` · `Matplotlib`
+
+**Sorceries — AI Agents & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A0DAD?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+
+<!-- Delete any badge for a tool you haven't actually used — interviewers will ask about them. -->
 
 </div>
 
